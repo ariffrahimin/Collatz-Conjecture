@@ -19,5 +19,7 @@ def conjecture(x):
 
 if __name__ == "__main__":
     x = int(input())
-    
-    conjecture(x)
+    if x < 1:
+        print("The number is invalid")
+    else:
+        conjecture(x)
