@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Collatz Conjecture" />
+  <img src="https://github.com/ariffrahimin/Collatz-Conjecture/blob/master/images/coral.gif" alt="Collatz Conjecture" />
 
-  &#xa0;
+&#xa0;
 
   <!-- <a href="https://collatzconjecture.netlify.app">Demo</a> -->
 </div>
@@ -26,9 +26,9 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  Collatz Conjecture 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
@@ -44,31 +44,25 @@
 
 <br>
 
-## :dart: About ##
+## :dart: About
 
-Describe your project
+This project is all about to programme a collatz conjecture based on [Veritasium Video](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium). It is intended to learn about numbers in natures and natures involvement in numbers. One of the infamous study is the Collatz Conjecture. It is stated that whatever number that is inputed in the conjecture, the output will always come doen to the loop of 4, 2, 1.
 
-## :sparkles: Features ##
+## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+The coding is to demonstrate the conjecture using python
 
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [pip](https://www.python.org/)
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Starting
 
 ```bash
 # Clone this project
@@ -77,19 +71,23 @@ $ git clone https://github.com/ariffrahimin/collatz-conjecture
 # Access
 $ cd collatz-conjecture
 
-# Install dependencies
-$ yarn
+# run python command
+$ python play.py
 
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+#insert any positive integer
+#for example number 27
 ```
 
-## :memo: License ##
+<div>
+  <img src="https://github.com/ariffrahimin/Collatz-Conjecture/blob/master/images/input27_steps.JPG"/>
+  <p>Figure 1 Command Prompt with input of 27</p>
+  <img src="https://github.com/ariffrahimin/Collatz-Conjecture/blob/master/images/input27.png"/>
+  <p>FIgure 2 The graph built for the conjecture with input of 27</p>
+</div>
+
+## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/ariffrahimin" target="_blank">ARIFF RAHIMIN BIN MOHAMED NORAZMAN</a>
 
