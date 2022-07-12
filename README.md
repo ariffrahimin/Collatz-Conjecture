@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-This project is all about to programme a collatz conjecture based on [Veritasium Video](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium). It is intended to learn about numbers in natures and natures involvement in numbers. One of the infamous study is the Collatz Conjecture. It is stated that whatever number that is inputed in the conjecture, the output will always come doen to the loop of 4, 2, 1.
+This project is all about to programme a collatz conjecture based on [Veritasium Video](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium). It is intended to learn about numbers in natures and natures involvement in numbers. One of the infamous study is the Collatz Conjecture. It is stated that whatever number that is inputed in the conjecture, the output will always come down to the loop of 4, 2, 1.
 
 ## :sparkles: Features
 
