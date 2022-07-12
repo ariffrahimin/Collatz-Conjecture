@@ -71,6 +71,9 @@ $ git clone https://github.com/ariffrahimin/collatz-conjecture
 # Access
 $ cd collatz-conjecture
 
+# Intall Requirements
+$ pip install -r requirements.txt
+
 # run python command
 $ python play.py
 
